@@ -1,0 +1,5 @@
+{
+"ip":"freename1234.aternos.me:",
+"port":"33386
+"name":"dipesh"
+}
